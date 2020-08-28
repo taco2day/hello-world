@@ -1,2 +1,3 @@
 # hello-world
-My First Repository
+
+First time GutHub user; Long time Lurker... Cheers!
